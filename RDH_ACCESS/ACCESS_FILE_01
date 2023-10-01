@@ -1,6 +1,4 @@
 This is for Enrich files
 
-E1
+cust -> account -> txn
 
-enrich_customer
-enrich_account
